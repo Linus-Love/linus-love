@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Linus-Love/linus-love** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- # 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Intelligence Gathering Agency.<br>👯 I’m looking to collaborate on AI grounded software.<br>🤝 I’m looking for help with integrating AI into businesses.<br>🌱 I’m currently stregthening my fundamentals in computer science.<br>💬 Ask me about anything non-personal ;)<br>⚡ Fun fact: I failed more than everybody else, yet became the most successful. 
 
 
